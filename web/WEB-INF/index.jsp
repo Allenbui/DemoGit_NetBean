@@ -29,9 +29,9 @@
          
     </head>
     <body>
-        <h1>Thay doi tu Master</h1>
+        <h1>Thay doi tu nhanh moi</h1>
         <h2>Them dong nay vao MASTER</h2>
-        <h3>Xoa dong nay khoi MASTER</h3>
+        <h3>Thay doi tu nhanh moi</h3>
         <div class="container">
             <div class="content">
 		<div class="content-top">
